@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NoBroker Search Suite" >
+    <!-- thread-count="1" parallel="tests"> -->
+    <listeners>
+        <listener class-name="utils.AnnotationTransformer" />
+        <listener class-name="utils.TestListener" />
+    </listeners>
+    <test name="Place An order">
+        <parameter name="deviceInfo" value="e72c4507 Android 10 8202" />
+        <classes>
+            <class name="appiumTestCases.AmazonBuyProduct">
+                <methods>
+                    <include name = "placeAnOrder" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

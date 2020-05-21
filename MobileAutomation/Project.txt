@@ -1,0 +1,12 @@
+             Project Execution
+Note This project has been created using IntelliJ Idea
+1)Put your credential into Amazon.properties inside ConfigFiles.
+2)put your device name & version inside AmazonProductCheckoutTest under XmlFiles folder
+
+like <parameter name="deviceInfo" value="e72c4507 Android 10 8202" />
+
+changes in above line
+deviceName = e72c4507
+deviceVersion = 10
+
+3) Right click and run as testng on AmazonProductCheckoutTest.xml inside XmlFiles folder

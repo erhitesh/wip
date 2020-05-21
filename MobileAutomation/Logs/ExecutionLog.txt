@@ -1,0 +1,43 @@
+2020-04-26 15:19:46 INFO  MobileAutomation:46 - User Already 
+2020-04-26 15:24:26 INFO  MobileAutomation:46 - User Already 
+2020-04-26 15:27:43 INFO  MobileAutomation:46 - User Already 
+2020-04-26 15:46:32 INFO  MobileAutomation:46 - User Already 
+2020-04-26 15:47:50 INFO  MobileAutomation:46 - User Already 
+2020-04-26 15:50:09 INFO  MobileAutomation:46 - User Already 
+2020-04-26 15:54:32 INFO  MobileAutomation:46 - User Already 
+2020-04-26 15:56:02 INFO  MobileAutomation:46 - User Already 
+2020-04-26 16:00:46 INFO  MobileAutomation:46 - User Already 
+2020-04-26 16:02:37 INFO  MobileAutomation:46 - User Already 
+2020-04-26 16:03:54 INFO  MobileAutomation:72 - Product Already Added
+2020-04-26 16:08:47 INFO  MobileAutomation:46 - User Already 
+2020-04-26 16:48:50 INFO  MobileAutomation:68 - Product Already Added
+2020-04-26 16:59:25 INFO  MobileAutomation:68 - Product Already Added
+2020-04-26 17:02:56 INFO  MobileAutomation:68 - Product Already Added
+2020-04-26 17:08:40 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 17:12:22 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 17:16:54 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 17:29:11 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 17:38:13 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 17:42:02 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 17:50:32 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 17:53:00 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 17:57:50 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 18:01:22 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 18:09:16 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 18:14:24 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 18:20:21 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 18:27:20 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 18:30:07 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 18:34:52 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 18:40:45 INFO  MobileAutomation:69 - Product Already Added
+2020-04-26 18:51:28 INFO  MobileAutomation:45 - User Already 
+2020-04-26 18:52:15 INFO  MobileAutomation:69 - Product Already Added
+2020-05-18 15:40:42 INFO  MobileAutomation:27 - User Already 
+2020-05-18 16:48:04 INFO  MobileAutomation:84 - Product Already Added
+2020-05-18 16:50:47 INFO  MobileAutomation:84 - Product Already Added
+2020-05-18 17:00:34 INFO  MobileAutomation:84 - Product Already Added
+2020-05-18 17:26:59 INFO  MobileAutomation:84 - Product Already Added
+2020-05-18 17:32:07 INFO  MobileAutomation:84 - Product Already Added
+2020-05-18 17:37:55 INFO  MobileAutomation:84 - Product Already Added
+2020-05-18 17:57:31 INFO  MobileAutomation:36 - User Already
+2020-05-18 17:58:26 INFO  MobileAutomation:87 - Product Already Added
